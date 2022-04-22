@@ -1,0 +1,35 @@
+* {
+    font-family: Optima, Segoe, 'Segoe UI', Candara, Calibri, Arial, sans-serif;
+}
+
+#navbar {
+    display: inline;
+    overflow: hidden;
+    font-size: larger;
+    background-color: rgb(105, 152, 127);
+    position: fixed; 
+    top: 0; 
+    width: 100%; 
+  }
+
+#shopname {
+    color:rgb(96, 15, 15);
+    background-color: rgb(240, 234, 226);
+    text-align: center;
+    border: 10px dotted #555;
+    margin-top: 25px;
+    margin-bottom: 0px;
+}
+
+main,
+footer {
+    text-align: center;
+}
+
+.beige-section {
+    background-color: rgb(240, 234, 226);
+}
+
+.purple-section {
+    background-color: rgb(215, 195, 214);
+}
